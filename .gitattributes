@@ -1,0 +1,2 @@
+Coleta/dados-coletados/votos-2021.csv filter=lfs diff=lfs merge=lfs -text
+Limpeza[[:space:]]e[[:space:]]Preparação/dados-limpos/votos.csv filter=lfs diff=lfs merge=lfs -text
