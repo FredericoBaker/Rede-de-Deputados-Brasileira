@@ -1,0 +1,34 @@
+1 - Cores:
+
+PL - #1976D2 - Azul
+PT - #D32F2F - Vermelho
+União - #388E3C - Verde
+PP - #CCF4E5 - Amarelo
+PSD - #A474AA - Roxo
+MDB - #E69022 - Laranja
+PSB - #009688 - Teal
+PSDB - #7500A2 - Roxo Escuro
+PDT - #C2185B - Rosa
+PR - #0097A7 - Turquesa
+PODE - #F57C00 - Laranja Claro
+PMDB - #CDDC39 - Limão
+DEM - #FFA000 - Âmbar
+PSOL - #8BC34A - Verde Claro
+PTB - #FFEB3B - Amarelo Claro
+PCdoB - #FFC107 - Dourado
+NOVO - #E91E63 - Rosa Claro
+PRB - #03A9F4 - Azul Celeste
+PSL - #0288D1 - Azul Claro
+Outros - #9E9E9E - Cinza
+
+2 - Node size -> 5
+
+3 - Layout
+
+Yifan Hu Proportional and rotate
+
+4 - Layout
+ - Rescale weight
+ - Thickness -> 0.5
+ - Color -> Origin
+ - Curved
